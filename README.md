@@ -15,9 +15,6 @@ This repository contains the camera-ready version of the research paper (ID 649)
 ## Publication Status
 Camera-ready version submitted for publication.
 
-## EB1A Evidence
-This publication serves as evidence of extraordinary ability in the field of Customer Engineering with focus on Artificial Intelligence Operations and Observability.
-
 ## Code Implementation
 
 This repository includes a Python implementation of the AI observability and monitoring system described in the paper.
