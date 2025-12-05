@@ -1,7 +1,7 @@
-# Research Paper - ID 649
+# MLOps Pipeline - Research Paper
 
 ## Publication Details
-This repository contains the camera-ready version of the research paper (ID 649).
+This repository contains the research paper on MLOps Pipeline.
 
 ## Abstract
 [To be updated with paper abstract]
@@ -44,7 +44,7 @@ python ai_observability_system.py
 3. **ObservabilityDashboard**: Unified view of all monitored models
 
 ## Files
-- `ID 649_Camera Ready (1).pdf` - Camera-ready version of the paper
+- `MLOps_Pipeline.pdf` - Published paper
 - `ai_observability_system.py` - Implementation code
 - `requirements.txt` - Python dependencies
 
