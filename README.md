@@ -1,11 +1,5 @@
 # Research Paper - ID 649
 
-<div align="center">
-  <img src="https://github.com/geekysatbir.png" alt="Satbir Singh" width="200" style="border-radius: 50%;"/>
-  <br/>
-  <strong>Satbir Singh</strong>
-</div>
-
 ## Publication Details
 This repository contains the camera-ready version of the research paper (ID 649).
 
